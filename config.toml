@@ -18,7 +18,7 @@ url = "#service"
 weight = 3
 [[menu.main]]
 name = "Work"
-url = "#work"
+url = "#portfolio"
 weight = 4
 [[menu.main]]
 name = "Resume"
@@ -48,7 +48,7 @@ url = "#skills"
 weight = 77
 [[menu.sitemap]]
 name = "Work"
-url = "#work"
+url = "#portfolio"
 weight = 44
 
 
