@@ -1,3 +1,3 @@
 ---
-title: Recents Projects
+title: All Projects
 ---
