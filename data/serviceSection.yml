@@ -10,24 +10,20 @@ service:
   - content: >
       #### Design 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      With my innovative design skills in architecture, I push boundaries to create visually stunning spaces. My experience in diverse project scales and emphasis on collaboration adds value to my design process. Using various design software and tools, I am dedicated to creating beautiful and functional spaces that enhance people's lives.
     image: images/service/ui-ux.svg
   - content: >
       #### 2D Drawing 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      my 2D drawing skills allow me to create accurate and detailed plans, sections, elevations, and other drawings necessary for architectural projects. My portfolio showcases my ability to create 2D drawings for a variety of projects, and I am skilled in using drafting software and tools. I work collaboratively with other team members and pay close attention to detail to ensure that all aspects of the project are executed accurately and efficiently.
     image: images/service/web.svg
   - content: >
       #### 3D Modeling 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I possess strong 3D modeling skills that allow me to create visually stunning representations of architectural designs. My portfolio showcases my ability to create accurate and detailed 3D models for a variety of projects, and I am skilled in using various software and tools. I also use 3D models for presentations and communication purposes, effectively conveying design intent to clients and stakeholders. I am dedicated to continually improving my abilities to ensure that all projects are executed with precision and creativity.
     image: images/service/creative.svg
   - content: >
       #### Rendering
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      My rendering skills enable me to create  accurate and visually stunning representations of architectural designs using various software and tools. I use these visualizations to effectively communicate design intent to clients and stakeholders, and I am continually improving my abilities to ensure that all projects are executed with precision and creativity.
     image: images/service/branding.svg
