@@ -1,6 +1,6 @@
 ---
 title: Suburbs Residential Urban Design
-date: 2021-01-01T12:49:27.000+06:00
+date: 2021-04-10T12:49:27.000+06:00
 thumbnail: images/project_suburbs/thumb.png
 service: Design, Modeling, Rendering
 # Client: Damascus University

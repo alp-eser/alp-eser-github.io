@@ -1,6 +1,6 @@
 ---
 title: Modern Residential Urban Design
-date: 2021-01-01T12:49:27.000+06:00
+date: 2021-06-29T12:49:27.000+06:00
 thumbnail: images/project_modernResidence/thumb.jpg
 service: Design, Modeling, Rendering
 # Client: Damascus University

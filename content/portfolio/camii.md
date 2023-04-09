@@ -1,6 +1,6 @@
 ---
 title: Ahmet Yılmaz Mosque
-date: 2021-01-01T12:49:27.000+06:00
+date: 2022-01-01T12:49:27.000+06:00
 thumbnail: images/project_camii/thumb.jpg
 service: Modeling, Rendering
 # Client: Damascus University

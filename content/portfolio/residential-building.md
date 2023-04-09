@@ -1,6 +1,6 @@
 ---
 title: Single Residence Building
-date: 2021-01-01T12:49:27.000+06:00
+date: 2020-09-27T12:49:27.000+06:00
 thumbnail: images/project_residence/thumb.jpg
 service: Design, Modeling, Rendering
 # Client: Damascus University

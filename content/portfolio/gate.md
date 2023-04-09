@@ -1,6 +1,6 @@
 ---
 title: Damascus University Gate
-date: 2021-01-01T12:49:27.000+06:00
+date: 2020-01-01T12:49:27.000+06:00
 thumbnail: images/project_gate/thumb.png
 service: Design, Modeling, Rendering
 # Client: Damascus University

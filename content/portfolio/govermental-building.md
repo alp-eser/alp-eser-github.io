@@ -1,6 +1,6 @@
 ---
 title: Damascus Municipality Building
-date: 2021-01-01T12:49:27.000+06:00
+date: 2021-10-10T12:49:27.000+06:00
 thumbnail: images/project_govermentalBuilding/thumb.jpg
 service: Design, Modeling, Rendering
 # Client: Damascus University
