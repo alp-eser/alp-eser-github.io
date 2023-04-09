@@ -4,14 +4,28 @@ topTitle: My Skills
 content: >
   ## Why hire me for your next project?
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  I bring a unique blend of creative design skills, technical expertise, and a deep passion for architecture, making me the ideal candidate to bring your vision to life and deliver exceptional results.
 
-image: images/skill/skill_image.jpg
+image: images/me3.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: Revit
+    percent: 80
+  - title: Enscape
+    percent: 80
+  - title: AutoCAD
+    percent: 80
+  - title: Adobe Photoshop
+    percent: 70
+  - title: Poster Design
+    percent: 70
+  - title: Sketch Drawing
+    percent: 70
+  - title: Logo Design
+    percent: 65
+  - title: 3D-Max
+    percent: 30
+  - title: Sketch-up
+    percent: 30
+
+    
