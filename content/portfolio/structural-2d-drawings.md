@@ -1,7 +1,7 @@
 ---
 title: 2D CAD Drawings
 date: 2021-01-01T12:49:27.000+06:00
-thumbnail: https://image.cnbcfm.com/api/v1/image/107220277-1680628247220-gettyimages-1200626590-dsc_6317_2020011961334526.jpeg?v=1680640147
+thumbnail: images/project_stractural/thumb.jpg
 service: Design, Modeling, Rendering
 # Client: Damascus University
 shortDescription: Check out the images below.
