@@ -1,7 +1,7 @@
 ---
 title: Damascus Conference Palace
 date: 2021-01-01T12:49:27.000+06:00
-thumbnail: images/project1/7.jpg
+thumbnail: images/project_conferenceHall/thumb.jpg
 service: Design, Modeling, Rendering
 # Client: Damascus University
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
