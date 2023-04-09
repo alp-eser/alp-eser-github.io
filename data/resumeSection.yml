@@ -4,10 +4,8 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  Here is a reflection of my experience through the projects I have undertaken at two different universities spanning a period of 5 years.
 
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -15,44 +13,54 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Undergraduate (Okan Uni.)
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      At Okan University, I learned how to intervene in historical residential places and design public buildings with specific themes that consider the location. I was responsible for conceptualizing and implementing the functional requirements of the building.
+    time: 2022-Present
   - content: >
-      #### Master in Arts
+      #### Undergraduate (Damascus Uni.)
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-
+      I studied at Damascus University for 3.5 years and gained skills in designing studios, schools, residential buildings, compounds, and public buildings. Additionally, I learned about structures and the use of wood, stone, metal, and concrete in construction.
+    time: 2017-2021
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Samatya Residence. 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+       a residential building in Al-Fateh Samatya, Turkey, that preserved the historical significance of the area while incorporating modern interior design and adhering to government regulations.
+
+    time: 2022-2023
   - content: >
-      #### Aperture Science 
+      #### Conference Palace. 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      a conference palace in Damascus that blends traditional and modern elements, meets safety regulations, and represents the values of the city.
+    time: 2021
   - content: >
-      #### ACME Inc. 
+      #### Municipality Building.
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      The government building project on a sloped land overcame challenges such as stability, retaining walls, and drainage, and included accessibility and security features, resulting in a functional and secure building with a design that conveys authority.
+    time: 2021
   - content: >
-      #### LexCorp 
+      #### Modern Residential Urban Design. 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      The urban area design balances modernity with functionality, considering natural light and wind, while including essential elements such as residential buildings, bicycle roads, play areas, parking, and an interactive square, meeting the community's needs
+
+    time: 2021
+  - content: >
+      #### Residential Urban Design. 
+
+      A residential building was designed in a suburban area with separate living spaces for families, space for animals and parking, and sustainable feature.
+
+    time: 2020
+  - content: >
+      #### Single Residential.
+
+       a residential building project meeting strict government regulations and incorporating three squares of houses with duplexes on the top floor, resulting in a functional and visually appealing design.
+
+    time: 2020
+
+  - content: >
+      #### Damascus Uni. Gate. 
+
+       an inviting and visually striking gate for an architectural university in Damascus that incorporated local culture and Islamic patterns, with decorative lighting and patterns that reflected the local architecture.
+
+    time: 2020
