@@ -1,4 +1,4 @@
-baseURL = "alp.eser.github.io/alp-eser/alp-eser-github.io"
+baseURL = "alp.eser.github.io"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
@@ -63,7 +63,7 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "Aydintepe Mah. Alaaddin sk no:7N Tuzla/Istanbul."
+address = "Aydintepe Mah. Alaaddin sk. Tuzla/Istanbul."
 email = "leen.hboubati@outlook.com"
 phone = "+(90) 507 099 86 69"
 
