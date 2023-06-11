@@ -24,10 +24,14 @@ jobs:
         with:
           node-version: "16"
 
-      # - name: Initialize and update theme submodule
-      #   run: |
-      #     git submodule init
-      #     git submodule update --recursive
+      - name: Initialize and update theme submodule
+        run: |
+          git submodule init
+          git submodule update --recursive
+
+      - name: List Tree
+        run: |
+          tree
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
