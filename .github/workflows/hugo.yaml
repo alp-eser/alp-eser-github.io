@@ -16,6 +16,8 @@ jobs:
           ref: main
           submodules: true
           fetch-depth: 0
+        env:
+          NODE_VERSION: 16
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
