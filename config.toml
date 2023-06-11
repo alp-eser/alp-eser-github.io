@@ -1,12 +1,7 @@
 baseURL = "alp.eser.github.io"
 languageCode = "en-us"
 paginate = 6
-
-[module]
-  [[module.imports]]
-    path = "https://github.com/alp-eser/portio-hugo.git"
-
-
+theme = "portio"
 title = "Leen Hboubati"
 # Main Menu
 [[menu.main]]
