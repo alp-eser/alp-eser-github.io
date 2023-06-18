@@ -1,4 +1,4 @@
-name: Hugo Deploy
+name: Hugo Build and Deploy
 
 on:
   push:
@@ -6,14 +6,40 @@ on:
       - main
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
-          submodules: recursive
+          ref: main
+          submodules: true
+          fetch-depth: 0
+        env:
+          NODE_VERSION: 16
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      - name: Initialize and update theme submodule
+        run: |
+          git submodule init
+          git submodule update --recursive
+
+      - name: List Tree
+        run: |
+          tree
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.110.0"
+
+      - name: Build
+        run: hugo --minify
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
